@@ -1,0 +1,42 @@
+Databases are broadly categorized based on their structure, data storage, and use cases. Here are the main types:
+
+Relational Databases (RDBMS)
+
+Data is organized into tables with rows and columns.
+Example: MySQL, PostgreSQL, Oracle DB.
+Non-Relational Databases (NoSQL)
+
+Stores data in formats like key-value pairs, documents, or graphs.
+Example: MongoDB, Cassandra, Redis.
+Hierarchical Databases
+
+Data is organized in a tree-like structure.
+Example: IBM Information Management System (IMS).
+Network Databases
+
+Data is represented using a graph structure with nodes and relationships.
+Example: Integrated Data Store (IDS).
+Object-Oriented Databases
+
+Stores data as objects, similar to object-oriented programming.
+Example: db4o, ObjectDB.
+Distributed Databases
+
+Data is stored across multiple locations or servers.
+Example: Google Bigtable, Apache Cassandra.
+Cloud Databases
+
+Managed on cloud platforms with scalability and accessibility features.
+Example: Amazon RDS, Google Cloud Spanner.
+Time-Series Databases
+
+Optimized for time-stamped data, such as logs or metrics.
+Example: InfluxDB, TimescaleDB.
+Graph Databases
+
+Focus on relationships between entities, represented as nodes and edges.
+Example: Neo4j, Amazon Neptune.
+Key-Value Databases
+
+Store data as key-value pairs for fast retrieval.
+Example: DynamoDB, Redis.
